@@ -15,3 +15,21 @@ C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.LogicaDe
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\refint\SysCafeteria.LogicaDeNegocio.dll
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.pdb
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\ref\SysCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.LogicaDeNegocio.deps.json
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.sourcelink.json
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\refint\SysCafeteria.LogicaDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\SysCafeteria.LogicaDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.LogicaDeNegocio\obj\Debug\net8.0\ref\SysCafeteria.LogicaDeNegocio.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SysCafeteria.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a4b507b6cfad567d62fb993280307005895c3b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("SysCafeteria.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SysCafeteria.EntidadDeNegocio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,19 @@ C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.AccesoAD
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\refint\SysCafeteria.AccesoADatos.dll
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
 C:\Users\MINEDUCYT\Documents\modulo 12 - esfe\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\ref\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.deps.json
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\bin\Debug\net8.0\SysCafeteria.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.sourcelink.json
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.csproj.CopyComplete
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\refint\SysCafeteria.AccesoADatos.dll
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\SysCafeteria.AccesoADatos.pdb
+C:\Users\MINEDUCYT\Documents\SysCafeteria\SysCafeteria.AccesoADatos\obj\Debug\net8.0\ref\SysCafeteria.AccesoADatos.dll
